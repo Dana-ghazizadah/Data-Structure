@@ -21,3 +21,5 @@
 | **Binary Search Tree** | $O(\log n)$ | $O(\log n)$ | $O(\log n)$ |
 | **Linked List** | $O(n)$ | $O(1)$ | $O(1)$ |
 | **Stack/Queue** | $O(n)$ | $O(1)$ | $O(1)$ |
+
+![Complexity Chart](./timecomplexity.png)
