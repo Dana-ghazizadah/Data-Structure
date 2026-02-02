@@ -27,5 +27,5 @@
 ## 🛠 نحوه استفاده
 ابتدا مخزن را کلون کنید و سپس فایل مورد نظر را اجرا کنید:
 bash
-git clone https://github.com/YOUR_USERNAME/Data-Structure.git
+(https://github.com/Dana-ghazizadah/Data-Structure)
 python BinarySearchTree.py
