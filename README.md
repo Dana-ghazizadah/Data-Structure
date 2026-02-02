@@ -11,7 +11,7 @@
 * **Non-Linear Structures:**
     * [X] Binary Search Tree (درخت جستجوی دودویی)
     * [X] Graph (گراف)
-    * [X] [Heap (هرم)](./max_heap.py)
+    * [X] [Heap (هرم)]
 
 ## 📊 پیچیدگی زمانی (Big O)
 درک سرعت اجرای هر ساختمان داده بسیار مهم است:
